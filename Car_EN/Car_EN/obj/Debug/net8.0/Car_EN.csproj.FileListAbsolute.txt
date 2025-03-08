@@ -1,0 +1,14 @@
+D:\CIS\Backend.net\Car_EN\Car_EN\bin\Debug\net8.0\Car_EN.exe
+D:\CIS\Backend.net\Car_EN\Car_EN\bin\Debug\net8.0\Car_EN.deps.json
+D:\CIS\Backend.net\Car_EN\Car_EN\bin\Debug\net8.0\Car_EN.runtimeconfig.json
+D:\CIS\Backend.net\Car_EN\Car_EN\bin\Debug\net8.0\Car_EN.dll
+D:\CIS\Backend.net\Car_EN\Car_EN\bin\Debug\net8.0\Car_EN.pdb
+D:\CIS\Backend.net\Car_EN\Car_EN\obj\Debug\net8.0\Car_EN.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIS\Backend.net\Car_EN\Car_EN\obj\Debug\net8.0\Car_EN.AssemblyInfoInputs.cache
+D:\CIS\Backend.net\Car_EN\Car_EN\obj\Debug\net8.0\Car_EN.AssemblyInfo.cs
+D:\CIS\Backend.net\Car_EN\Car_EN\obj\Debug\net8.0\Car_EN.csproj.CoreCompileInputs.cache
+D:\CIS\Backend.net\Car_EN\Car_EN\obj\Debug\net8.0\Car_EN.dll
+D:\CIS\Backend.net\Car_EN\Car_EN\obj\Debug\net8.0\refint\Car_EN.dll
+D:\CIS\Backend.net\Car_EN\Car_EN\obj\Debug\net8.0\Car_EN.pdb
+D:\CIS\Backend.net\Car_EN\Car_EN\obj\Debug\net8.0\Car_EN.genruntimeconfig.cache
+D:\CIS\Backend.net\Car_EN\Car_EN\obj\Debug\net8.0\ref\Car_EN.dll

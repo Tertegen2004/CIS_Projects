@@ -1,0 +1,14 @@
+D:\CIS\Backend.net\Carproject\Carproject\bin\Debug\net8.0\Carproject.exe
+D:\CIS\Backend.net\Carproject\Carproject\bin\Debug\net8.0\Carproject.deps.json
+D:\CIS\Backend.net\Carproject\Carproject\bin\Debug\net8.0\Carproject.runtimeconfig.json
+D:\CIS\Backend.net\Carproject\Carproject\bin\Debug\net8.0\Carproject.dll
+D:\CIS\Backend.net\Carproject\Carproject\bin\Debug\net8.0\Carproject.pdb
+D:\CIS\Backend.net\Carproject\Carproject\obj\Debug\net8.0\Carproject.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIS\Backend.net\Carproject\Carproject\obj\Debug\net8.0\Carproject.AssemblyInfoInputs.cache
+D:\CIS\Backend.net\Carproject\Carproject\obj\Debug\net8.0\Carproject.AssemblyInfo.cs
+D:\CIS\Backend.net\Carproject\Carproject\obj\Debug\net8.0\Carproject.csproj.CoreCompileInputs.cache
+D:\CIS\Backend.net\Carproject\Carproject\obj\Debug\net8.0\Carproject.dll
+D:\CIS\Backend.net\Carproject\Carproject\obj\Debug\net8.0\refint\Carproject.dll
+D:\CIS\Backend.net\Carproject\Carproject\obj\Debug\net8.0\Carproject.pdb
+D:\CIS\Backend.net\Carproject\Carproject\obj\Debug\net8.0\Carproject.genruntimeconfig.cache
+D:\CIS\Backend.net\Carproject\Carproject\obj\Debug\net8.0\ref\Carproject.dll

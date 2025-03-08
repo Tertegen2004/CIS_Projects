@@ -1,0 +1,14 @@
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\bin\Debug\net8.0\ShoppingSystem.exe
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\bin\Debug\net8.0\ShoppingSystem.deps.json
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\bin\Debug\net8.0\ShoppingSystem.runtimeconfig.json
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\bin\Debug\net8.0\ShoppingSystem.dll
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\bin\Debug\net8.0\ShoppingSystem.pdb
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.AssemblyInfoInputs.cache
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.AssemblyInfo.cs
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.csproj.CoreCompileInputs.cache
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.dll
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\obj\Debug\net8.0\refint\ShoppingSystem.dll
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.pdb
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\obj\Debug\net8.0\ShoppingSystem.genruntimeconfig.cache
+D:\CIS\Backend.net\ShoppingSystem\ShoppingSystem\obj\Debug\net8.0\ref\ShoppingSystem.dll

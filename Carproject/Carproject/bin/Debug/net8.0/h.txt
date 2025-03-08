@@ -1,0 +1,3 @@
+Name:honda2000 Id:11 Price:340000 Color:red
+Name:honda1900 Id:12 Price:32000 Color:white
+Name:honda1950 Id:12 Price:32000 Color:red

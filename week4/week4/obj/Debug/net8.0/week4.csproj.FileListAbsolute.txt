@@ -1,0 +1,14 @@
+D:\CIS\Backend.net\week4\week4\bin\Debug\net8.0\week4.exe
+D:\CIS\Backend.net\week4\week4\bin\Debug\net8.0\week4.deps.json
+D:\CIS\Backend.net\week4\week4\bin\Debug\net8.0\week4.runtimeconfig.json
+D:\CIS\Backend.net\week4\week4\bin\Debug\net8.0\week4.dll
+D:\CIS\Backend.net\week4\week4\bin\Debug\net8.0\week4.pdb
+D:\CIS\Backend.net\week4\week4\obj\Debug\net8.0\week4.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIS\Backend.net\week4\week4\obj\Debug\net8.0\week4.AssemblyInfoInputs.cache
+D:\CIS\Backend.net\week4\week4\obj\Debug\net8.0\week4.AssemblyInfo.cs
+D:\CIS\Backend.net\week4\week4\obj\Debug\net8.0\week4.csproj.CoreCompileInputs.cache
+D:\CIS\Backend.net\week4\week4\obj\Debug\net8.0\week4.dll
+D:\CIS\Backend.net\week4\week4\obj\Debug\net8.0\refint\week4.dll
+D:\CIS\Backend.net\week4\week4\obj\Debug\net8.0\week4.pdb
+D:\CIS\Backend.net\week4\week4\obj\Debug\net8.0\week4.genruntimeconfig.cache
+D:\CIS\Backend.net\week4\week4\obj\Debug\net8.0\ref\week4.dll

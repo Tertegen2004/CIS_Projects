@@ -1,0 +1,1 @@
+Name:marced Id:12 Price:2000000 Color:white
