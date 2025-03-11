@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CIS\\Backend.net\\InventoryManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{280C7B0F-0DB8-4520-BFB4-220A35289922}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|d:\\cis\\backend.net\\inventorymanagmentsystem\\inventorymanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280C7B0F-0DB8-4520-BFB4-220A35289922}|InventoryManagmentSystem\\InventoryManagmentSystem.csproj|solutionrelative:inventorymanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\InventoryManagmentSystem\\InventoryManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagmentSystem\\Program.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\InventoryManagmentSystem\\InventoryManagmentSystem\\Program.cs",
+              "RelativeToolTip": "InventoryManagmentSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T13:18:30.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

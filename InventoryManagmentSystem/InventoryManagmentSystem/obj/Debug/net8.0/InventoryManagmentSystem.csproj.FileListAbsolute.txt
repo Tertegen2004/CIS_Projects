@@ -1,0 +1,14 @@
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\bin\Debug\net8.0\InventoryManagmentSystem.exe
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\bin\Debug\net8.0\InventoryManagmentSystem.deps.json
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\bin\Debug\net8.0\InventoryManagmentSystem.runtimeconfig.json
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\bin\Debug\net8.0\InventoryManagmentSystem.dll
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\bin\Debug\net8.0\InventoryManagmentSystem.pdb
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.AssemblyInfoInputs.cache
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.AssemblyInfo.cs
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.csproj.CoreCompileInputs.cache
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.dll
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\net8.0\refint\InventoryManagmentSystem.dll
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.pdb
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\net8.0\InventoryManagmentSystem.genruntimeconfig.cache
+D:\CIS\Backend.net\InventoryManagmentSystem\InventoryManagmentSystem\obj\Debug\net8.0\ref\InventoryManagmentSystem.dll

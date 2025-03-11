@@ -12,3 +12,18 @@ D:\CIS\Backend.net\practice week3\practice week3\obj\Debug\net8.0\refint\practic
 D:\CIS\Backend.net\practice week3\practice week3\obj\Debug\net8.0\practice week3.pdb
 D:\CIS\Backend.net\practice week3\practice week3\obj\Debug\net8.0\practice week3.genruntimeconfig.cache
 D:\CIS\Backend.net\practice week3\practice week3\obj\Debug\net8.0\ref\practice week3.dll
+D:\CIS\Backend.net\Projects\week3\practice week3\bin\Debug\net8.0\practice week3.exe
+D:\CIS\Backend.net\Projects\week3\practice week3\bin\Debug\net8.0\practice week3.deps.json
+D:\CIS\Backend.net\Projects\week3\practice week3\bin\Debug\net8.0\practice week3.runtimeconfig.json
+D:\CIS\Backend.net\Projects\week3\practice week3\bin\Debug\net8.0\practice week3.dll
+D:\CIS\Backend.net\Projects\week3\practice week3\bin\Debug\net8.0\practice week3.pdb
+D:\CIS\Backend.net\Projects\week3\practice week3\obj\Debug\net8.0\practice week3.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIS\Backend.net\Projects\week3\practice week3\obj\Debug\net8.0\practice week3.AssemblyInfoInputs.cache
+D:\CIS\Backend.net\Projects\week3\practice week3\obj\Debug\net8.0\practice week3.AssemblyInfo.cs
+D:\CIS\Backend.net\Projects\week3\practice week3\obj\Debug\net8.0\practice week3.csproj.CoreCompileInputs.cache
+D:\CIS\Backend.net\Projects\week3\practice week3\obj\Debug\net8.0\practice week3.sourcelink.json
+D:\CIS\Backend.net\Projects\week3\practice week3\obj\Debug\net8.0\practice week3.dll
+D:\CIS\Backend.net\Projects\week3\practice week3\obj\Debug\net8.0\refint\practice week3.dll
+D:\CIS\Backend.net\Projects\week3\practice week3\obj\Debug\net8.0\practice week3.pdb
+D:\CIS\Backend.net\Projects\week3\practice week3\obj\Debug\net8.0\practice week3.genruntimeconfig.cache
+D:\CIS\Backend.net\Projects\week3\practice week3\obj\Debug\net8.0\ref\practice week3.dll

@@ -1,0 +1,14 @@
+D:\CIS\Backend.net\QuizeGame\QuizeGame\bin\Debug\net8.0\QuizeGame.exe
+D:\CIS\Backend.net\QuizeGame\QuizeGame\bin\Debug\net8.0\QuizeGame.deps.json
+D:\CIS\Backend.net\QuizeGame\QuizeGame\bin\Debug\net8.0\QuizeGame.runtimeconfig.json
+D:\CIS\Backend.net\QuizeGame\QuizeGame\bin\Debug\net8.0\QuizeGame.dll
+D:\CIS\Backend.net\QuizeGame\QuizeGame\bin\Debug\net8.0\QuizeGame.pdb
+D:\CIS\Backend.net\QuizeGame\QuizeGame\obj\Debug\net8.0\QuizeGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIS\Backend.net\QuizeGame\QuizeGame\obj\Debug\net8.0\QuizeGame.AssemblyInfoInputs.cache
+D:\CIS\Backend.net\QuizeGame\QuizeGame\obj\Debug\net8.0\QuizeGame.AssemblyInfo.cs
+D:\CIS\Backend.net\QuizeGame\QuizeGame\obj\Debug\net8.0\QuizeGame.csproj.CoreCompileInputs.cache
+D:\CIS\Backend.net\QuizeGame\QuizeGame\obj\Debug\net8.0\QuizeGame.dll
+D:\CIS\Backend.net\QuizeGame\QuizeGame\obj\Debug\net8.0\refint\QuizeGame.dll
+D:\CIS\Backend.net\QuizeGame\QuizeGame\obj\Debug\net8.0\QuizeGame.pdb
+D:\CIS\Backend.net\QuizeGame\QuizeGame\obj\Debug\net8.0\QuizeGame.genruntimeconfig.cache
+D:\CIS\Backend.net\QuizeGame\QuizeGame\obj\Debug\net8.0\ref\QuizeGame.dll
