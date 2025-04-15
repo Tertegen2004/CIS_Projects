@@ -1,0 +1,14 @@
+D:\CIS\Backend.net\Em_Management\Em_Management\bin\Debug\net8.0\Em_Management.exe
+D:\CIS\Backend.net\Em_Management\Em_Management\bin\Debug\net8.0\Em_Management.deps.json
+D:\CIS\Backend.net\Em_Management\Em_Management\bin\Debug\net8.0\Em_Management.runtimeconfig.json
+D:\CIS\Backend.net\Em_Management\Em_Management\bin\Debug\net8.0\Em_Management.dll
+D:\CIS\Backend.net\Em_Management\Em_Management\bin\Debug\net8.0\Em_Management.pdb
+D:\CIS\Backend.net\Em_Management\Em_Management\obj\Debug\net8.0\Em_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIS\Backend.net\Em_Management\Em_Management\obj\Debug\net8.0\Em_Management.AssemblyInfoInputs.cache
+D:\CIS\Backend.net\Em_Management\Em_Management\obj\Debug\net8.0\Em_Management.AssemblyInfo.cs
+D:\CIS\Backend.net\Em_Management\Em_Management\obj\Debug\net8.0\Em_Management.csproj.CoreCompileInputs.cache
+D:\CIS\Backend.net\Em_Management\Em_Management\obj\Debug\net8.0\Em_Management.dll
+D:\CIS\Backend.net\Em_Management\Em_Management\obj\Debug\net8.0\refint\Em_Management.dll
+D:\CIS\Backend.net\Em_Management\Em_Management\obj\Debug\net8.0\Em_Management.pdb
+D:\CIS\Backend.net\Em_Management\Em_Management\obj\Debug\net8.0\Em_Management.genruntimeconfig.cache
+D:\CIS\Backend.net\Em_Management\Em_Management\obj\Debug\net8.0\ref\Em_Management.dll

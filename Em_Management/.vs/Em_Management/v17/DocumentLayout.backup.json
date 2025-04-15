@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CIS\\Backend.net\\Em_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\staffmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\staffmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\salaryem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\salaryem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\excutiveem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\excutiveem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\staffmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\staffmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\comissionem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\comissionem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|d:\\cis\\backend.net\\em_management\\em_management\\houarlyem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AF5F98D-BA48-466C-9D92-E4FA3374CFDA}|Em_Management\\Em_Management.csproj|solutionrelative:em_management\\houarlyem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Demo.cs",
+              "RelativeDocumentMoniker": "Em_Management\\Demo.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Demo.cs",
+              "RelativeToolTip": "Em_Management\\Demo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:30:31.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffManage.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\StaffManage.cs",
+              "RelativeDocumentMoniker": "Em_Management\\StaffManage.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\StaffManage.cs",
+              "RelativeToolTip": "Em_Management\\StaffManage.cs",
+              "ViewState": "AgIAAPEAAAAAAAAAAAASwEsBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:37:17.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Employee.cs",
+              "RelativeDocumentMoniker": "Em_Management\\Employee.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Employee.cs",
+              "RelativeToolTip": "Em_Management\\Employee.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:03:48.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Volunteer.cs",
+              "RelativeDocumentMoniker": "Em_Management\\Volunteer.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Volunteer.cs",
+              "RelativeToolTip": "Em_Management\\Volunteer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:12:13.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalaryEm.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\SalaryEm.cs",
+              "RelativeDocumentMoniker": "Em_Management\\SalaryEm.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\SalaryEm.cs",
+              "RelativeToolTip": "Em_Management\\SalaryEm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:26:17.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComissionEm.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\ComissionEm.cs",
+              "RelativeDocumentMoniker": "Em_Management\\ComissionEm.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\ComissionEm.cs",
+              "RelativeToolTip": "Em_Management\\ComissionEm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:29:09.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcutiveEm.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\ExcutiveEm.cs",
+              "RelativeDocumentMoniker": "Em_Management\\ExcutiveEm.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\ExcutiveEm.cs",
+              "RelativeToolTip": "Em_Management\\ExcutiveEm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAWwAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:39:53.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Project.cs",
+              "RelativeDocumentMoniker": "Em_Management\\Project.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Project.cs",
+              "RelativeToolTip": "Em_Management\\Project.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:07:35.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Budget.cs",
+              "RelativeDocumentMoniker": "Em_Management\\Budget.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Budget.cs",
+              "RelativeToolTip": "Em_Management\\Budget.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T12:34:58.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StaffMember.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\StaffMember.cs",
+              "RelativeDocumentMoniker": "Em_Management\\StaffMember.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\StaffMember.cs",
+              "RelativeToolTip": "Em_Management\\StaffMember.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAD4vyAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:38:25.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HouarlyEm.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\HouarlyEm.cs",
+              "RelativeDocumentMoniker": "Em_Management\\HouarlyEm.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\HouarlyEm.cs",
+              "RelativeToolTip": "Em_Management\\HouarlyEm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T09:18:10.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Department.cs",
+              "RelativeDocumentMoniker": "Em_Management\\Department.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Department.cs",
+              "RelativeToolTip": "Em_Management\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:34:08.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Program.cs",
+              "RelativeDocumentMoniker": "Em_Management\\Program.cs",
+              "ToolTip": "D:\\CIS\\Backend.net\\Em_Management\\Em_Management\\Program.cs",
+              "RelativeToolTip": "Em_Management\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T08:32:54.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
