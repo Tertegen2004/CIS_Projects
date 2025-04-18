@@ -1,0 +1,14 @@
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\bin\Debug\net8.0\Contact_Manageer.exe
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\bin\Debug\net8.0\Contact_Manageer.deps.json
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\bin\Debug\net8.0\Contact_Manageer.runtimeconfig.json
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\bin\Debug\net8.0\Contact_Manageer.dll
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\bin\Debug\net8.0\Contact_Manageer.pdb
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\obj\Debug\net8.0\Contact_Manageer.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\obj\Debug\net8.0\Contact_Manageer.AssemblyInfoInputs.cache
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\obj\Debug\net8.0\Contact_Manageer.AssemblyInfo.cs
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\obj\Debug\net8.0\Contact_Manageer.csproj.CoreCompileInputs.cache
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\obj\Debug\net8.0\Contact_Manageer.dll
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\obj\Debug\net8.0\refint\Contact_Manageer.dll
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\obj\Debug\net8.0\Contact_Manageer.pdb
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\obj\Debug\net8.0\Contact_Manageer.genruntimeconfig.cache
+D:\CIS\Backend.net\Contact_Manageer\Contact_Manageer\obj\Debug\net8.0\ref\Contact_Manageer.dll
