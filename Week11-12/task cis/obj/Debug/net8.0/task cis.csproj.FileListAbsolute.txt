@@ -1,0 +1,304 @@
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\task cis.exe
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\task cis.deps.json
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\task cis.runtimeconfig.json
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\task cis.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\task cis.pdb
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Hardware\source\repos\task cis\task cis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Hardware\source\repos\task cis\task cis\obj\Debug\net8.0\task cis.csproj.AssemblyReference.cache
+C:\Users\Hardware\source\repos\task cis\task cis\obj\Debug\net8.0\task cis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hardware\source\repos\task cis\task cis\obj\Debug\net8.0\task cis.AssemblyInfoInputs.cache
+C:\Users\Hardware\source\repos\task cis\task cis\obj\Debug\net8.0\task cis.AssemblyInfo.cs
+C:\Users\Hardware\source\repos\task cis\task cis\obj\Debug\net8.0\task cis.csproj.CoreCompileInputs.cache
+C:\Users\Hardware\source\repos\task cis\task cis\obj\Debug\net8.0\task cis.csproj.Up2Date
+C:\Users\Hardware\source\repos\task cis\task cis\obj\Debug\net8.0\task cis.dll
+C:\Users\Hardware\source\repos\task cis\task cis\obj\Debug\net8.0\refint\task cis.dll
+C:\Users\Hardware\source\repos\task cis\task cis\obj\Debug\net8.0\task cis.pdb
+C:\Users\Hardware\source\repos\task cis\task cis\obj\Debug\net8.0\task cis.genruntimeconfig.cache
+C:\Users\Hardware\source\repos\task cis\task cis\obj\Debug\net8.0\ref\task cis.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\task cis.exe
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\task cis.deps.json
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\task cis.runtimeconfig.json
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\task cis.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\task cis.pdb
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Azure.Core.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Azure.Identity.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Humanizer.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.ClientModel.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.CodeDom.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Text.Json.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\obj\Debug\net8.0\task cis.csproj.AssemblyReference.cache
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\obj\Debug\net8.0\task cis.GeneratedMSBuildEditorConfig.editorconfig
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\obj\Debug\net8.0\task cis.AssemblyInfoInputs.cache
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\obj\Debug\net8.0\task cis.AssemblyInfo.cs
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\obj\Debug\net8.0\task cis.csproj.CoreCompileInputs.cache
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\obj\Debug\net8.0\task cis.csproj.Up2Date
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\obj\Debug\net8.0\task cis.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\obj\Debug\net8.0\refint\task cis.dll
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\obj\Debug\net8.0\task cis.pdb
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\obj\Debug\net8.0\task cis.genruntimeconfig.cache
+D:\CIS\CIS_Tasks-main\task cis\task cis\task cis\obj\Debug\net8.0\ref\task cis.dll

@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|d:\\cis\\cis_tasks-main\\task cis\\task cis\\task cis\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|solutionrelative:task cis\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|d:\\cis\\cis_tasks-main\\task cis\\task cis\\task cis\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|solutionrelative:task cis\\models\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|d:\\cis\\cis_tasks-main\\task cis\\task cis\\task cis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|solutionrelative:task cis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|d:\\cis\\cis_tasks-main\\task cis\\task cis\\task cis\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|solutionrelative:task cis\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|d:\\cis\\cis_tasks-main\\task cis\\task cis\\task cis\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|solutionrelative:task cis\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|d:\\cis\\cis_tasks-main\\task cis\\task cis\\task cis\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|solutionrelative:task cis\\models\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|d:\\cis\\cis_tasks-main\\task cis\\task cis\\task cis\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42AFA405-543B-4755-9EE0-DE768C030745}|task cis\\task cis.csproj|solutionrelative:task cis\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 345,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "task cis\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\ApplicationDbContext.cs",
+              "RelativeToolTip": "task cis\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:12:39.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "task cis\\Models\\Review.cs",
+              "ToolTip": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\Models\\Review.cs",
+              "RelativeToolTip": "task cis\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:10:21.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\Models\\Borrower.cs",
+              "RelativeDocumentMoniker": "task cis\\Models\\Borrower.cs",
+              "ToolTip": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\Models\\Borrower.cs",
+              "RelativeToolTip": "task cis\\Models\\Borrower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:08:05.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "task cis\\Models\\Book.cs",
+              "ToolTip": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\Models\\Book.cs",
+              "RelativeToolTip": "task cis\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:04:48.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "task cis\\Models\\Author.cs",
+              "ToolTip": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\Models\\Author.cs",
+              "RelativeToolTip": "task cis\\Models\\Author.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:02:55.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\Program.cs",
+              "RelativeDocumentMoniker": "task cis\\Program.cs",
+              "ToolTip": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\Program.cs",
+              "RelativeToolTip": "task cis\\Program.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwBQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T21:54:56.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BorrowedBook.cs",
+              "DocumentMoniker": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\Models\\BorrowedBook.cs",
+              "RelativeDocumentMoniker": "task cis\\Models\\BorrowedBook.cs",
+              "ToolTip": "D:\\CIS\\CIS_Tasks-main\\task cis\\task cis\\task cis\\Models\\BorrowedBook.cs",
+              "RelativeToolTip": "task cis\\Models\\BorrowedBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T22:07:15.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
